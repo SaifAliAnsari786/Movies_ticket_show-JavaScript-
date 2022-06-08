@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\FirstProject"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MovieSetsBoking"
+	}
+}
